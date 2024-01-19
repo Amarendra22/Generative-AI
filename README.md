@@ -1,9 +1,9 @@
 # Generative-AI
 This is a project on a generative AI which  converts the human voice input to text which is furthur converted to voice using GPT-3.5
 
-# This is a voice-controlled conversational interface that utilizes the Google Speech Recognition API for speech-to-text conversion and the OpenAI GPT-3.5 Turbo model for generating responses.
+### This is a voice-controlled conversational interface that utilizes the Google Speech Recognition API for speech-to-text conversion and the OpenAI GPT-3.5 Turbo model for generating responses.
 
-#Imports that need to be installed
+# Imports that need to be installed
 - openai
 - pyttsx3
 - speech_recognition
